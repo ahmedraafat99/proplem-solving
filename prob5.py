@@ -1,3 +1,4 @@
+#
 def sum_array(arr):
     
     if not arr or len(arr) < 3:
